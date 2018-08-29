@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frogger Arcade Game
 
 ## Summary
